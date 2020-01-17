@@ -114,3 +114,6 @@ venv.bak/
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
+/lehman/replication/Data/
+/lehman/replication/Deliverables/
+
